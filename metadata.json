@@ -1,0 +1,6 @@
+{
+  "name": "VidPulse - Modern Video Sharing & Creator Platform",
+  "description": "Next-generation video platform and creator economy. Watch, upload, stream vertical shorts, interact with community posts, manage channels, and monetize your content with live creator studio and admin moderation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
